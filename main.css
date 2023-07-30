@@ -1,0 +1,132 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #FEFEFE;
+}
+
+p {
+    font-family: 'Gotham', sans-serif;
+}
+
+h2 {
+    font-family: 'Gotham Black', sans-serif;
+}
+
+.gotham {
+    font-family: 'Gotham', sans-serif;
+}
+
+.gotham-black {
+    font-family: 'Gotham Black', sans-serif;
+}
+
+#cabecalho {
+    background-color: #000;
+}
+
+#cabecalho img {
+    height: 76px;
+}
+
+#cabecalho .nav a {
+    color: #fff;
+}
+
+#cabecalho .nav a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#cabecalho .nav .nav-link.active,
+.navbar-toggler {
+    color: #000;
+    background-color: #fff;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.text-colored {
+    color: #feb900;
+}
+
+.endereco {
+    font-size: 14px;
+}
+
+#planos .card img {
+    object-fit: cover;
+    height: 200px;
+}
+
+#planos .nav-link,
+#redes-sociais a {
+    color: #000;
+}
+
+#planos .nav-link.active {
+    color: #feb900;
+    background-color: #000;
+}
+
+.card {
+    border: none;
+}
+
+.card-effect {
+    position: relative;
+    border: 2px solid transparent;
+    transition: 0.3s ease-in-out;
+}
+
+.card-effect:hover {
+    border: 2px solid #feb900;
+    transition: 0.3s ease-in;
+}
+
+#redes-sociais li {
+    list-style: none;
+}
+
+#redes-sociais li a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px){
+    #cabecalho img {
+        height: 60px;
+    }
+
+    #menu-navegacao {
+        margin-top: 12px;
+    }
+
+    #sobre-franquia {
+        justify-content: center;
+        width: 92.5%;
+    }
+
+    #experiencia-cards {
+        justify-content: center;
+        width: 92.5%;
+    }
+
+    #menu-planos{
+        padding-bottom: 12px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    #menu-navegacao {
+        margin-top: 24px;
+    }
+}
+
+@media screen and (min-width: 1700px) {
+    .carousel-item img {
+        object-fit: contain;
+        height: 80vh;
+        width: 100%;
+    }
+}
