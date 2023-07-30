@@ -4,13 +4,13 @@
 
 ## 📷 Deploy
 
-<h3>LINK: https://musicfy-bs.vercel.app</h3>
-<a href="https://musicfy-bs.vercel.app/" target="_blank">
+<h3>LINK: https://smartfit-bs.vercel.app/</h3>
+<a href="https://smartfit-bs.vercel.app/" target="_blank">
  <img src="preview.jpeg" width="100%" style="border-radius: 6px" />
 </a>
 
 ## 💻 Projeto
-Projeto próprio, onde consegui aplicar os conceitos de Bootstrap e jQuery para a criação de uma página da rede de academias Smart Fit, utilizado como projeto de conclusão de módulo na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+Projeto próprio, onde consegui aplicar os conceitos de Bootstrap e jQuery para a criação de uma página da rede de academias Smart Fit. Utilizado como projeto de conclusão de módulo na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
 ## 🚀 Tecnologias
 - Bootstrap
